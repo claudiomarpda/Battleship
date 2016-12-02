@@ -6,3 +6,10 @@ This was a project for a course of concurrent paradigm. There are somethings tha
 
 Concepts: Socket, ServerSocket, Protocol Server, SocketTimeout, KeepAlive, Runnable, Thread, ThreadPool, Semaphore, Lock, Serializable, DataStream, ObjectStream.
 
+
+Interface screens:</br>
+
+![alt tag](https://github.com/claudiomarpda/Battleship/blob/master/screenshots/screen1.jpg)
+![alt tag](https://github.com/claudiomarpda/Battleship/blob/master/screenshots/screen2.jpg)
+![alt tag](https://github.com/claudiomarpda/Battleship/blob/master/screenshots/screen3.jpg)
+![alt tag](https://github.com/claudiomarpda/Battleship/blob/master/screenshots/screen4.jpg)
